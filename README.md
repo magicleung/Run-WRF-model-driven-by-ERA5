@@ -29,7 +29,7 @@ Driving WRF with ERA5 data
       Edit namelist.wps in the metgrid section: fg_name = '3D','2D'
       Run mpirun -np 8 ./metgrid.exe
 
-5. WRF
+4. WRF
   Edit namelist.input in time_control section: interval_seconds = 3600
   Edit namelist.input in domain section: e_vert = 40
   Edit namelist.input in domain section: num_metgrid_levels = 38
