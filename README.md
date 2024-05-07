@@ -10,6 +10,7 @@ _**This guide takes you through the process of running the Weather Research and 
 <br>
 
 ## 2. Download ERA5 Data by Python
+We provide Python scripts Download_ERA5-3D.py and Download_ERA5-2D.py to help automate the data download process.
 * [Download_ERA5-3D.py](Download_ERA5-3D.py.py)
 * [Download_ERA5-2D.py](Download_ERA5-2D.py.py)
 
